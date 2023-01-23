@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Localizer.Cli": {
+      "commandName": "Project",
+      "commandLineArgs": "--file \"C:\\Users\\kid_j\\source\\repos\\ambie\\src\\AmbientSounds.Uwp\\MultilingualResources\\AmbientSounds.Uwp.sv-SE.xlf\" --apikey 9413ae0b4c5a49ad984f5fc6a983c7de --region \"westus\" --from \"en\" --to \"sv\""
+    }
+  }
+}
